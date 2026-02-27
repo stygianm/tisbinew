@@ -1,0 +1,28 @@
+ day | paid_type | views_count | unique_viewers 
+-----+-----------+-------------+----------------
+(0 rows)
+
+ series_id | unique_viewers 
+-----------+----------------
+(0 rows)
+
+ content_id | unique_viewers 
+------------+----------------
+(0 rows)
+
+ user_id 
+---------
+(0 rows)
+
+ series_id | completion_rate_percent | binge_rate_percent | engagement_score 
+-----------+-------------------------+--------------------+------------------
+      7608 |                  100.00 |               0.00 |            40.00
+      9570 |                   40.00 |               0.00 |            16.00
+(2 rows)
+
+         segment          | users_count | avg_recency_days | avg_daily_views | avg_watch_hours 
+--------------------------+-------------+------------------+-----------------+-----------------
+ Cold / Super Fan / Light |           6 |           2920.7 |            1.00 |             0.5
+ Cold / Casual / Light    |           1 |           2756.0 |            0.00 |             4.9
+(2 rows)
+
