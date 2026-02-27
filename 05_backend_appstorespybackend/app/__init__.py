@@ -1,0 +1,1 @@
+"""Appstorespy API."""
