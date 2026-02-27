@@ -1,0 +1,1 @@
+"""Avito TM Statistics microservice."""
